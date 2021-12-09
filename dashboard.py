@@ -23,7 +23,7 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '4'
 
 import tensorflow as tf
 import tensorflow.keras.backend as K
-from agent_environment import *
+from .agent_environment import *
 
 import seaborn as sns
 sns.set_style("whitegrid")
