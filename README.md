@@ -8,10 +8,15 @@ The paper is peer-reviewed and published in Scientific Reports.
 
 Paper link: https://doi.org/10.1038/s41598-020-79147-8
 
+## Environment & Challenge
 
-![environment](https://github.com/QuwsarOhi/epidemic-rl-sr/tree/master/imgs/workflow.jpg)
+Through a pandemic situation, the foremost intention is to produce a vaccine that provides immunity over a particular infectious disease. However, an effective vaccine may take years to develop depending on the disease and some certain criteria. While investigating the vaccine, the loss of a pandemic is to be controlled via proper clinical support and by reducing the expanse of the disease. Nevertheless, assuring proper clinical care is not possible in a pandemic situation due to a large number of infections over the available limited clinical support. Therefore, lessening the expanse of a disease is the first and foremost effort to overcome the devastation of a pandemic disaster.
 
---------------
+Pandemics are often caused by diseases that transmit through person-to-person close contact. At present, pandemics are caused by flu such as Swine flu, and Coronavirus. Different intervention means are proven to reduce the devastation of a pandemic outbreak. However, these interventions often cause an economic breakdown, and it is not possible to reduce the impact of a pandemic without it. Therefore, a pandemic situation raises challenges to balance the viral spread and a steady economy.
+
+![environment](https://github.com/QuwsarOhi/epidemic-rl-sr/blob/1eb7ef7652a75b1639ab49a17fdaef76737567e2/imgs/infograph_trans.png)
+
+## Implementation
 
 The overall script is implemented using Python-3.
 
