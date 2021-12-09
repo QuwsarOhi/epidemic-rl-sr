@@ -1,3 +1,5 @@
+
+
 import matplotlib.pyplot as plt
 from IPython.display import clear_output
 import matplotlib.patches as mpatches
@@ -700,7 +702,6 @@ class DQN:
             p -= 1
         return ret
 
-    # Not the original train function, but accelerates the output process
     def train(self, terminal_state, step):
         if len(self.replay_memory) < 2*self.REPLAY_MEM_SZ:
             return
