@@ -9,7 +9,7 @@ The paper is peer-reviewed and published in Scientific Reports.
 Paper link: https://doi.org/10.1038/s41598-020-79147-8
 
 
-![environment](https://github.com/QuwsarOhi/epidemic-rl-sr/blob/main/imgs/workflow.jpg)
+![environment](https://github.com/QuwsarOhi/epidemic-rl-sr/tree/master/imgs/workflow.jpg)
 
 --------------
 
