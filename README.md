@@ -2,11 +2,21 @@
 
 #### Authors: Abu Quwsar Ohi, M. F. Mridha, Muhammad Mostafa Monowar, and Md. Abdul Hamid
 
+##### This is an implementation of the FruitDet. A jupyter notebook version and a python version is attached in the repo.
+
+The paper is peer-reviewed and published in Scientific Reports.
+
+Paper link: https://doi.org/10.1038/s41598-020-79147-8
+
+
+![environment](https://github.com/QuwsarOhi/epidemic-rl-sr/blob/main/imgs/workflow.jpg)
+
+--------------
+
 The overall script is implemented using Python-3.
 
 The package requirenment are given in the "requirenments.txt" file.
 Please execute "pip install -r requirenments.txt" to install the necessary packages.
-
 
 The discription of the each file/folders are given below:
 
